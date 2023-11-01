@@ -10,5 +10,6 @@ public class BOJ9655 {
         } else {
             System.out.println("SK");
         }
+
     }
 }
